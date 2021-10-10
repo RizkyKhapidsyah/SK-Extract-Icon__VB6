@@ -1,0 +1,5 @@
+Line 72: Class MSComctlLib.ImageList of control imgIconList was not a loaded control class.
+Line 75: The property name _ExtentX in imgIconList is invalid.
+Line 76: The property name _ExtentY in imgIconList is invalid.
+Line 78: The property name MaskColor in imgIconList is invalid.
+Line 79: The property name _Version in imgIconList is invalid.
